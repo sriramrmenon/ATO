@@ -1,0 +1,16 @@
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\AtoEndpointsApplication.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\ServletInitializer.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\dao\Anomaly.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\dto\DashBoard.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\utils\AtoUtils.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\dto\ReportDTO.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\respositories\UserRepository.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\dto\User.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\dao\User.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\config\PostgresJPA.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\CORSFilter.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\controllers\VersionController.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\respositories\AnomalyRepository.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\utils\EmailUtils.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\dto\UserRegistration.java
+D:\git\ATOVD\ato-endpoints\src\main\java\com\ato\LoginDTO.java

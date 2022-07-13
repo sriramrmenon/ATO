@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ato.AtoEndpointsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.613 s - in com.ato.AtoEndpointsApplicationTests

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ato-endpoints:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ato-endpoints</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ato-endpoints-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ato-endpoints:war exploded" />
+    </root>
+  </artifact>
+</component>
